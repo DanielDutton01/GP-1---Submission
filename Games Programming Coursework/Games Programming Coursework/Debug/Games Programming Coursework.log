@@ -1,3 +1,3 @@
 ﻿  Connect4Game.cpp
-c:\users\raspu\source\repos\games programming coursework\games programming coursework\connect4game.cpp(17): warning C4326: return type of 'main' should be 'int' instead of 'void'
+c:\users\raspu\source\repos\games programming coursework\games programming coursework\connect4game.cpp(16): warning C4326: return type of 'main' should be 'int' instead of 'void'
   Games Programming Coursework.vcxproj -> C:\Users\raspu\source\repos\Games Programming Coursework\Debug\Games Programming Coursework.exe
